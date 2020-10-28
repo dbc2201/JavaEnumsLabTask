@@ -1,0 +1,42 @@
+/*deeksha 
+
+ class main;
+enum MonthsOfYear {
+  January,
+  February,
+  March,
+  April,
+  May,
+  June,
+  July,
+  August,
+  September,
+  October,
+  November,
+  December;
+ }
+class main{
+  public static void main (String [] args) {
+    System.Out.Println (" please enter the current month of the year:");
+    Scanner scanner = new Scanner.next line
+      scanner.close ();
+    System.Out.Println ("You have entered \ "" + Current Month + "\");
+                        }
+                        }
+                        if( currentMonth.equals(month of year.OCTOBER.name()) {
+                          system.out.println ("Today is " + MonthsOfYear.OCTOBER.name());
+                          }
+                           }
+                           }
+ 
+
+  
+
+
+
+  
+  
+
+    
+
+ 
